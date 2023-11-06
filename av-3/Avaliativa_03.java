@@ -1,3 +1,9 @@
+// Considere  uma  matriz  de  tamanhon  ×  m.  Faça  um  programa  que encontre  o menorelemento de  cada  linha da  matriz  e troquede  posição  com  o primeiro  elemento.  Em seguida, colocarem ordem crescente os elementos da 1acoluna da matriz. O programa deve exibir:
+    // a.Amatriz original;
+    // b.Amatriz com o menor elemento na 1aposição de cada linha da matriz;
+    // c.A matriz com o menor elemento na 1aposição de cada linha da matriz e 1acoluna ordenada.
+// OBSERVAÇÃO:    O  programa  deve  funcionar  para  uma  matriz  qualquer. Para  fins  de exibição das matrizes nos itens a, b e c, podem-se usar, como exemplo, as dimensões 6 × 5.
+// ---------------
 
 
 import java.util.Arrays;
