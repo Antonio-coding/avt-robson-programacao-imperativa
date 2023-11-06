@@ -3,6 +3,8 @@
     // b.Amatriz com o menor elemento na 1aposição de cada linha da matriz;
     // c.A matriz com o menor elemento na 1aposição de cada linha da matriz e 1acoluna ordenada.
 // OBSERVAÇÃO:    O  programa  deve  funcionar  para  uma  matriz  qualquer. Para  fins  de exibição das matrizes nos itens a, b e c, podem-se usar, como exemplo, as dimensões 6 × 5.
+
+
 // ---------------
 
 // Alunos: 
