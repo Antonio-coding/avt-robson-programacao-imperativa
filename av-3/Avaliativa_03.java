@@ -5,6 +5,11 @@
 // OBSERVAÇÃO:    O  programa  deve  funcionar  para  uma  matriz  qualquer. Para  fins  de exibição das matrizes nos itens a, b e c, podem-se usar, como exemplo, as dimensões 6 × 5.
 // ---------------
 
+// Alunos: 
+
+    // Antonio Thiago (00000849657)
+
+    // Breno Fernandes(00000849751)
 
 import java.util.Arrays;
 import java.util.Random;
